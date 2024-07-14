@@ -1,2 +1,2 @@
-# Barracuda_log_in-page
-It is a Barracuda administrator log in page demo project.
+# Barracuda_login_page
+It is a Barracuda administrator login page UI demo project.
